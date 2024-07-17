@@ -1,0 +1,4 @@
+<hello class="py">
+    a = "hi"
+    print(a)
+</hello>
